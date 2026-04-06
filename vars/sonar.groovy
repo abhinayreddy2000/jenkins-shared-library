@@ -8,3 +8,5 @@ def call(version) {
             -Dsonar.login=\$TOKEN
             """
         }
+    }
+}
